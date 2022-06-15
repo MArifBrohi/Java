@@ -15,7 +15,7 @@ class A implements myInterface{
          System.out.println("Meth 3");          
     }
     public void meth4(){
-        System.out.println("Meth 4 implementation"); // makes class A obj, 
+        System.out.println("Meth 4 implementation"); // make a class A obj, 
                                                         //if you want to print this one
     }
 }
